@@ -1,6 +1,6 @@
 Relationships:
  ✔ One to one @started(18-10-09 15:09) @done (18-10-09 15:56) @lasted(0:47)
- ☐ One to many
+ ✔ One to many @started(18-10-09 16:05) @done (18-10-09 16:28) @lasted(0:23)
  ☐ Many to many
  ☐ Has many through
  ☐ Polimorphic relations
