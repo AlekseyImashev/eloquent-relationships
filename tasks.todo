@@ -4,4 +4,5 @@ Relationships:
  ✔ One to many @started(18-10-09 16:05) @done (18-10-09 16:28) @lasted(0:23)
  ✔ Many to many @started(18-10-09 19:22) @done (18-10-09 20:22) @lasted(1:00)
  ✔ Has many through @started(18-10-10 18:47) @done (18-10-10 19:17) @lasted(0:30)
- ☐ Polimorphic relations
+ ✔ Polimorphic relations @started(18-10-12 20:10) @done (18-10-12 20:53) @lasted(0:43)
+ ☐ Many to many polimorphic relations
